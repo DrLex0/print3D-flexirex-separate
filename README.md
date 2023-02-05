@@ -58,6 +58,8 @@ After gluing, you may need to apply a bit of sanding to hide the seam.
 
 This is released under the same CC BY-SA license as the print-in-place Flexi Rex it is derived from. [See the Flexi Rex repository for more details.](https://github.com/DrLex0/print3D-FlexiRex#license-clarification-read-this-before-contacting-me)
 
+Ready-to-print attribution cards for this specific model are provided in PDF format as well.
+
 
 ## History
 
